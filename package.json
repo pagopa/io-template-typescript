@@ -6,7 +6,7 @@
   "author": "https://teamdigitale.governo.it",
   "license": "MIT",
   "scripts": {
-    "prepare": "rimraf dist && npm run build",
+    "prebuild": "rimraf dist",
     "build": "tsc",
     "postversion": "git push && git push --tags",
     "test": "jest",
