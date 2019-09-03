@@ -8,9 +8,9 @@
     "strict": true,
     "noImplicitAny": true,
     "declaration": true,
-    "sourceMap": true
+    "sourceMap": true,
+    "lib": []
   },
-  "lib": [],
   "include": [
     "src/**/*"
   ],
