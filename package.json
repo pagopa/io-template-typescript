@@ -2,8 +2,8 @@
   "name": "TODO",
   "version": "0.0.1",
   "description": "TODO",
-  "repository": "https://github.com/teamdigitale/TODO",
-  "author": "https://teamdigitale.governo.it",
+  "repository": "https://github.com/pagopa/TODO",
+  "author": "https://pagopa.gov.it",
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
@@ -23,25 +23,10 @@
     "rimraf": "^2.6.2",
     "ts-jest": "^24.0.2",
     "tslint": "^5.1.0",
-    "typescript": "^3.5.0"
+    "typescript": "^3.9.0"
   },
   "dependencies": {
-    "fp-ts": "1.12.0",
+    "fp-ts": "1.17.4",
     "io-ts": "1.8.5"
-  },
-  "jest": {
-    "testEnvironment": "node",
-    "collectCoverage": true,
-    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
-    "moduleFileExtensions": [
-      "js",
-      "json",
-      "jsx",
-      "node",
-      "ts",
-      "tsx"
-    ],
-    "preset": "ts-jest",
-    "testMatch": null
   }
 }
