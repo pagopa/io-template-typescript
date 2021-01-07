@@ -3,26 +3,26 @@
 <!--- Write this PR as you were contributing to a public OSS project, where nobody knows you and you have to earn their trust. -->
 <!--- This will improve our projects in the long run! Thanks. -->
 
-## Description
+#### Description
 <!--- Describe your changes in detail -->
 
-## Motivation and Context
+#### Motivation and Context
 <!--- Why is this change required? What problem does it solve? -->
 
-## How Has This Been Tested?
+#### How Has This Been Tested?
 <!--- Please describe in detail how you tested your changes. -->
 <!--- Include details of your testing environment, tests ran to see how -->
 <!--- your change affects other areas of the code, etc. -->
 
-## Screenshots (if appropriate):
+#### Screenshots (if appropriate):
 
-## Types of changes
+#### Types of changes
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
-## Checklist:
+#### Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 - [ ] My change requires a change to the documentation.
