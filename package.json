@@ -14,19 +14,19 @@
   },
   "devDependencies": {
     "@types/jest": "^25.2.1",
-    "jest": "^25.2.7",
-    "rimraf": "^2.6.2",
-    "ts-jest": "^25.3.1",
     "@types/node": "10.14.1",
     "danger": "^8.0.0",
     "danger-plugin-digitalcitizenship": "*",
     "italia-tslint-rules": "*",
+    "jest": "^25.2.7",
     "prettier": "^1.12.1",
+    "rimraf": "^2.6.2",
+    "ts-jest": "^25.3.1",
     "tslint": "^5.1.0",
     "typescript": "^3.9.0"
   },
   "dependencies": {
-    "fp-ts": "1.17.4",
-    "io-ts": "1.8.5"
+    "fp-ts": "^2.11.8",
+    "io-ts": "^2.2.16"
   }
 }
