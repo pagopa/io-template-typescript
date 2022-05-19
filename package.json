@@ -16,7 +16,7 @@
     "@pagopa/danger-custom-rules": "^2.0.3",
     "@types/jest": "^25.2.1",
     "@types/node": "10.14.1",
-    "danger": "^8.0.0",
+    "danger": "^11.0.7",
     "italia-tslint-rules": "*",
     "jest": "^25.2.7",
     "prettier": "^1.12.1",
